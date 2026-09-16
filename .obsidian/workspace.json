@@ -13,54 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kosongan.md",
+                "file": "Materi_Kuliah/01_Konsep_Pemrograman/Modul_MD/01_Dasar_Pemrograman_Python_Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kosongan"
+              "title": "01_Dasar_Pemrograman_Python_Java"
             }
           },
           {
-            "id": "13888c6085d533b2",
+            "id": "3fa1ea1b41d861da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rekayasa Kompresi Model Kecerdasan Artifisial Portabel untuk Penapisan Penyakit Berbasis Citra Medis pada Komputer Terbatas di Fasilitas Kesehatan 3T.md",
+                "file": "Materi_Kuliah/gabungan materi teori/Operasi Sistem Komputer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rekayasa Kompresi Model Kecerdasan Artifisial Portabel untuk Penapisan Penyakit Berbasis Citra Medis pada Komputer Terbatas di Fasilitas Kesehatan 3T"
+              "title": "Operasi Sistem Komputer"
             }
           },
           {
-            "id": "ca3fa7bf881dd000",
+            "id": "28c4ab10b16e2c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model AI buat penyakit.md",
+                "file": "Materi_Kuliah/09_Kecerdasan_Buatan/Modul_MD/05_Machine_Learning_Supervised_Naive_Bayes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model AI buat penyakit"
+              "title": "05_Machine_Learning_Supervised_Naive_Bayes"
             }
           },
           {
-            "id": "a8ba90ccb60dbf62",
+            "id": "9d3c966004f8dcc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "daftar website bagus dari awwwards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daftar website bagus dari awwwards"
+            }
+          },
+          {
+            "id": "fb1906dd3b54b0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materi_Kuliah/03_Basis_Data/Konsep_Basis_Data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Konsep_Basis_Data"
+            }
+          },
+          {
+            "id": "c52f44d7227f9b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "username ubuntu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "username ubuntu"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.6962432861328
   },
   "right": {
     "id": "b5aa0a0d2d9c4277",
@@ -135,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kosongan.md",
+                "file": "Materi_Kuliah/04_Pemrograman_Web/Modul_MD/03_Dasar_JavaScript_dan_DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for kosongan"
+              "title": "Backlinks"
             }
           },
           {
@@ -225,15 +257,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "a8ba90ccb60dbf62",
+  "active": "c52f44d7227f9b43",
   "lastOpenFiles": [
-    "edge-ai-untuk-3t.md",
-    "Model AI buat penyakit.md",
-    "kosongan.md",
-    "Untitled.md",
-    "Unconfirmed 459015.crdownload",
-    "Rekayasa Kompresi Model Kecerdasan Artifisial Portabel untuk Penapisan Penyakit Berbasis Citra Medis pada Komputer Terbatas di Fasilitas Kesehatan 3T.pdf",
-    "Rekayasa Kompresi Model Kecerdasan Artifisial Portabel untuk Penapisan Penyakit Berbasis Citra Medis pada Komputer Terbatas di Fasilitas Kesehatan 3T.md",
-    "first.md"
+    "pemilihan mata kuliah semester 5.md",
+    "INDEX_UTAMA_CATATAN_OBSIDIA.md",
+    "daftar website bagus dari awwwards.md",
+    "Materi_Kuliah/gabungan materi teori/Operasi Sistem Komputer.md",
+    "username ubuntu.md",
+    "Materi_Kuliah/08_Jaringan_Komputer/Modul_MD/02_Model_Referensi_OSI_Layer_dan_TCPIP.md",
+    "Materi_Kuliah/11_Manajemen_Jaringan/02_Virtual_LAN_VLAN_dan_InterVLAN_Routing.md",
+    "Materi_Kuliah/11_Manajemen_Jaringan/Modul_MD/02_Virtual_LAN_VLAN_dan_InterVLAN_Routing.md",
+    "Materi_Kuliah/11_Manajemen_Jaringan/Materi_Asli/2. Virtual Lan (VLAN).pdf",
+    "Materi_Kuliah/11_Manajemen_Jaringan/img",
+    "Materi_Kuliah/11_Manajemen_Jaringan/Modul_MD",
+    "Materi_Kuliah/11_Manajemen_Jaringan/Materi_Asli",
+    "Materi_Kuliah/11_Manajemen_Jaringan/Konsep_Manajemen_Jaringan.md",
+    "Materi_Kuliah/11_Manajemen_Jaringan/2. Virtual Lan (VLAN).pdf",
+    "Materi_Kuliah/11_Manajemen_Jaringan",
+    "Materi_Kuliah/New folder",
+    "Materi_Kuliah/08_Jaringan_Komputer/Modul_MD/03_Lapisan_Fisik_dan_Data_Link_Ethernet.md",
+    "Materi_Kuliah/08_Jaringan_Komputer/Modul_MD/01_Pengantar_Jaringan_Komputer_dan_Perangkat.md",
+    "Materi_Kuliah/09_Kecerdasan_Buatan/Modul_MD/01_Konsep_Kecerdasan_Buatan.md",
+    "Materi_Kuliah/10_Kriptografi/Web kriptografi.md",
+    "Materi_Kuliah/03_Basis_Data/Konsep_Basis_Data.md",
+    "Materi_Kuliah/10_Kriptografi",
+    "Untitled",
+    "Materi_Kuliah/03_Basis_Data/Modul_MD/01_Pengantar_DBMS.md",
+    "Materi_Kuliah/09_Kecerdasan_Buatan/Modul_MD/05_Machine_Learning_Supervised_Naive_Bayes.md",
+    "Materi_Kuliah/09_Kecerdasan_Buatan/Modul_MD/04_Algoritma_Pencarian_Informed_Search_dan_Heuristic.md",
+    "Materi_Kuliah/03_Basis_Data/Modul_MD/05_Model_Relasional_dan_Integritas.md",
+    "Materi_Kuliah/03_Basis_Data/Modul_MD/04_Pemetaan_ER_ke_Relasional.md",
+    "Materi_Kuliah/03_Basis_Data/Modul_MD/03_EER_Model.md",
+    "Materi_Kuliah/02_Struktur_Data_dan_Algoritma/Praktikum-SDA-2025/1-List-Stack-and-Queue/3_Queue.md",
+    "Materi_Kuliah/01_Konsep_Pemrograman/Modul_MD/01_Dasar_Pemrograman_Python_Java.md",
+    "Materi_Kuliah/gabungan materi teori",
+    "vault-teman/My_Knowledge_OS/10_Spaces/11_College/Semester_5_Prep.md",
+    "vault-teman/My_Knowledge_OS/00_Inbox/s11277-023-10315-5.md",
+    "Materi_Kuliah/06_Pemrograman_Berbasis_Objek/Modul_MD/01_Materi_OOP_Java_Python.md",
+    "Materi_Kuliah/09_Kecerdasan_Buatan/Konsep_Kecerdasan_Buatan.md",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_9.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_8.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_7.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_6.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_5.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_4.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_30.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_3.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_29.png",
+    "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_28.png"
   ]
 }

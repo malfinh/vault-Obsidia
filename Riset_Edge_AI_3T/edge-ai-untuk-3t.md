@@ -1,6 +1,9 @@
 # Edge AI untuk Deteksi Penyakit di Daerah 3T Indonesia
 
-## Pendahuluan
+Navigasi Riset: [[Model AI buat penyakit]] | [[Rekayasa Kompresi Model Kecerdasan Artifisial Portabel untuk Penapisan Penyakit Berbasis Citra Medis pada Komputer Terbatas di Fasilitas Kesehatan 3T|Proposal Penelitian 3T]] | Integrasi Hardware Mobile: [[../Materi_Kuliah/05_Pengembangan_Aplikasi_Bergerak/Konsep_Pengembangan_Aplikasi_Bergerak|Pengembangan Aplikasi Bergerak]]
+
+---
+
 
 Menjalankan model AI untuk deteksi penyakit di daerah 3T (Tertinggal, Terdepan, Terluar) Indonesia adalah challenge yang nyata. Komputernya tidak sebagus di kota besar, koneksi internet tidak stabil, dan data spesifikasi hardware di faskes 3T jarang dipublikasikan. Dokumen ini membahas strategi arsitektur dan optimisasi yang bisa dipakai.
 
