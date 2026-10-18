@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materi_Kuliah/10_Kriptografi/Web kriptografi.md",
+                "file": "cloud_engineering/roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web kriptografi"
+              "title": "roadmap"
             }
           }
         ],
@@ -259,6 +259,7 @@
   },
   "active": "c52f44d7227f9b43",
   "lastOpenFiles": [
+    "Materi_Kuliah/10_Kriptografi/Web kriptografi.md",
     "Materi_Kuliah/12_Data_Mining/Modul_MD/01_Pengantar_dan_Peran_Data_Mining.md",
     "Materi_Kuliah/13_Computer_Vision/Materi_Asli/2. Transformasi Intensitas.pdf",
     "Materi_Kuliah/13_Computer_Vision/Materi_Asli/4. Spatial Filtering.pdf",
@@ -293,7 +294,6 @@
     "Materi_Kuliah/08_Jaringan_Komputer/Modul_MD/03_Lapisan_Fisik_dan_Data_Link_Ethernet.md",
     "Materi_Kuliah/08_Jaringan_Komputer/Modul_MD/01_Pengantar_Jaringan_Komputer_dan_Perangkat.md",
     "Materi_Kuliah/09_Kecerdasan_Buatan/Modul_MD/01_Konsep_Kecerdasan_Buatan.md",
-    "Materi_Kuliah/10_Kriptografi/Web kriptografi.md",
     "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_9.png",
     "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_8.png",
     "Materi_Kuliah/03_Basis_Data/img/SQL_TCL_slide_7.png",
